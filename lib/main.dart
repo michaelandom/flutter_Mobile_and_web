@@ -19,7 +19,7 @@ class MyApp extends ConsumerWidget {
         title: 'Flutter Demo',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-          primarySwatch: Colors.indigo,
+          primarySwatch: Colors.red,
         ),
         home: SplitView(
           menu: AppMenu(),
